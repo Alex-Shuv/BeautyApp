@@ -1,2 +1,10 @@
-@import 'normalize.css';
 @import 'variables';
+@import 'reset';
+
+#app {
+  background-color: $color-black;
+  color: $color-white;
+  height: 100vh;
+}
+
+
