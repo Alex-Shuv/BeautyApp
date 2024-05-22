@@ -1,6 +1,12 @@
 @import 'variables';
 @import 'reset';
 
+body {
+  font-family: "M PLUS 1p", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
 #app {
   background-color: $color-black;
   color: $color-white;
